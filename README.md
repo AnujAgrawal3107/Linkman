@@ -34,7 +34,7 @@ To run Link Man locally, follow these steps:
 1. **Clone the Link Man API repository** from [link-man-api](https://github.com/AddyAddline/link-man-api):
 
    ```bash
-   git clone https://github.com/AddyAddline/link-man-api.git
+   git clone https://github.com/AnujAgrawal3107/LinkManapi
    ```
 2.  **Navigate to the API project directory:**
     ```bash
@@ -65,7 +65,7 @@ The backend server is now up and running.
 1. **Clone the Link Man Frontend repository from** from [link-man](https://github.com/AddyAddline/link-man):
 
    ```bash
-   git clone https://github.com/AddyAddline/link-man.git
+   git clone https://github.com/AnujAgrawal3107/Linkman
    ```
 2. **Navigate to the Frontend project directory:**
     ```bash
@@ -88,7 +88,5 @@ Replace ***YOUR_API_PORT*** with the port on which the Link Man API is running l
     ```bash
     npm run dev
     ```
-## License
-This project is open-source and released under the MIT License. You can find the full license text in the LICENSE.md file.
-    
+
 
